@@ -3,7 +3,8 @@
 
  This repo contains the implementation of this paper: [Mahmod, Md Jubayer al, and Ujjwal Guin. "**A Robust, Low-Cost and Secure Authentication Scheme for IoT Applications.**" Cryptography 4.1 (2020): 8.](https://www.mdpi.com/2410-387X/4/1/8/htm)
  * Author: [Jubayer Mahmod](https://sites.google.com/vt.edu/jubayer/home) 
- * Bradly department of Electrical and Computer Engineering
+ Contact:
+ * Bradly department of Electrical and Computer Engineering, Virgnia Tech, VA 24060, US
  * Graduate student researcher
  * Date:  4/9/2019
 
