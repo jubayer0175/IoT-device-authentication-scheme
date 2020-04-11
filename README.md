@@ -10,7 +10,7 @@
  * Date:  4/9/2019
 
 ##### Running
-A simple power-up method and hamming distance is used to generate SRAM device signatures. The signature is employed in a secure authentication protocol:
+A simple power-up method and hamming distance are used to generate SRAM device signatures. The signature is employed in a secure authentication protocol:
 
 ![Tux, protocol](https://www.mdpi.com/cryptography/cryptography-04-00008/article_deploy/html/images/cryptography-04-00008-g002.png)
 I used Arduino (mega) as ED and Pi as a gateway. During enrollment, one Arduino is used to control the power of DUT (another Arduino). DUT would need a few codes to complete the process. Load `Power_control.ino` in the power control Arduino. Run this `ID_automate_v_0.1.py` and this will tell which `.ino` needs to be loaded in the DUT. Note that you will need some circuit that can support power-on of function in DUT. I did not have much time to design a PCB, so I went with a simple relay to do that. A relay connected with power control Arduino and the relay controls the power of the DUT. 
