@@ -2,8 +2,9 @@
 **This can be an elementary introduction to hardware security. It has SRAM PUF and signature generation process along with some basic crypto such as hash (SHA-256)** 
 
  This repo contains the implementation of this paper: [Mahmod, Md Jubayer al, and Ujjwal Guin. "**A Robust, Low-Cost and Secure Authentication Scheme for IoT Applications.**" Cryptography 4.1 (2020): 8.](https://www.mdpi.com/2410-387X/4/1/8/htm)
+ 
+  Contact:
  * Author: [Jubayer Mahmod](https://sites.google.com/vt.edu/jubayer/home) 
- Contact:
  * Bradly department of Electrical and Computer Engineering, Virgnia Tech, VA 24060, US
  * Graduate student researcher
  * Date:  4/9/2019
