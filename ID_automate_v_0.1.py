@@ -13,7 +13,7 @@ import serial
 import time
 
 
-DUT_serial="COM5"
+DUT_serial="COM12"
 power_serial="COM6"
 
 bytes_=42 ## number of bytes in the arduino code
